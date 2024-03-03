@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/naive.dir/naive.c.o -o naive 

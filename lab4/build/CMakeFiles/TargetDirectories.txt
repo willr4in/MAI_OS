@@ -1,0 +1,6 @@
+/home/willrain/MAI/OS/lab4/build/CMakeFiles/impl1.dir
+/home/willrain/MAI/OS/lab4/build/CMakeFiles/impl2.dir
+/home/willrain/MAI/OS/lab4/build/CMakeFiles/comp.dir
+/home/willrain/MAI/OS/lab4/build/CMakeFiles/runtime.dir
+/home/willrain/MAI/OS/lab4/build/CMakeFiles/edit_cache.dir
+/home/willrain/MAI/OS/lab4/build/CMakeFiles/rebuild_cache.dir

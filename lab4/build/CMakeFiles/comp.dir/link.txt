@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/comp.dir/compile.cpp.o -o comp  -Wl,-rpath,/home/willrain/MAI/OS/lab4/build libimpl2.so 

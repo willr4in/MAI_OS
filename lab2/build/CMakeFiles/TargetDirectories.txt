@@ -1,0 +1,3 @@
+/home/willrain/MAI/OS/lab2/build/CMakeFiles/naive.dir
+/home/willrain/MAI/OS/lab2/build/CMakeFiles/edit_cache.dir
+/home/willrain/MAI/OS/lab2/build/CMakeFiles/rebuild_cache.dir

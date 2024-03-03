@@ -1,0 +1,4 @@
+/home/willrain/MAI/OS/lab57/build/CMakeFiles/calculation.dir
+/home/willrain/MAI/OS/lab57/build/CMakeFiles/main.dir
+/home/willrain/MAI/OS/lab57/build/CMakeFiles/edit_cache.dir
+/home/willrain/MAI/OS/lab57/build/CMakeFiles/rebuild_cache.dir

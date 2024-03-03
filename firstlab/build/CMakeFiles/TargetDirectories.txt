@@ -1,0 +1,5 @@
+/home/willrain/MAI/OS/firstlab/build/CMakeFiles/main.dir
+/home/willrain/MAI/OS/firstlab/build/CMakeFiles/first_child.dir
+/home/willrain/MAI/OS/firstlab/build/CMakeFiles/second_child.dir
+/home/willrain/MAI/OS/firstlab/build/CMakeFiles/edit_cache.dir
+/home/willrain/MAI/OS/firstlab/build/CMakeFiles/rebuild_cache.dir
